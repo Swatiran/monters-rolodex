@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monters-rolodex/static/css/main.da6731d7.css",
+    "main.js": "/monters-rolodex/static/js/main.3f012aaf.js",
+    "static/js/787.15aedbc5.chunk.js": "/monters-rolodex/static/js/787.15aedbc5.chunk.js",
+    "index.html": "/monters-rolodex/index.html",
+    "main.da6731d7.css.map": "/monters-rolodex/static/css/main.da6731d7.css.map",
+    "main.3f012aaf.js.map": "/monters-rolodex/static/js/main.3f012aaf.js.map",
+    "787.15aedbc5.chunk.js.map": "/monters-rolodex/static/js/787.15aedbc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6731d7.css",
+    "static/js/main.3f012aaf.js"
+  ]
+}
